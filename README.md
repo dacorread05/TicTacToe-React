@@ -1,3 +1,10 @@
+# TicTacToe-React
+Proyecto en react, creando el famoso juego de Tic Tac Toe
+
+
+Mi primer proyecto con React
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
